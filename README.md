@@ -1,2 +1,2 @@
-# HIV-Data
-Collection of public domain HIV data for various projects
+# Virus Data
+Collection of public domain virus (sequence) data for various projects
