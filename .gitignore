@@ -1,0 +1,4 @@
+### MAC GITIGNORE ###
+.DS_Store
+*.swp
+*.plist
