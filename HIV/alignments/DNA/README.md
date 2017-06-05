@@ -8,6 +8,16 @@
         * Year: 2016
         * Format: FASTA
 
+* **[HIV1_FLT_2016_gag_DNA.fasta](HIV1_FLT_2016_gag_DNA.fasta)**
+    * [Los Alamos HIV Sequence Alignment](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
+        * Alignment Type: Filtered Web
+        * Organism: HIV-1/SIVcpz
+        * Region: GAG
+        * Subtype: All
+        * DNA/Protein: DNA
+        * Year: 2016
+        * Format: FASTA
+
 * **[HIV1_FLT_2016_genome_DNA.fasta](HIV1_FLT_2016_genome_DNA.fasta)**
     * [Los Alamos HIV Sequence Alignment](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
         * Alignment Type: Filtered Web
