@@ -87,3 +87,13 @@
         * DNA/Protein: DNA
         * Year: 2016
         * Format: FASTA
+
+* **[HIV1_FLT_2016_vpu_DNA.fasta.gz](HIV1_FLT_2016_vpu_DNA.fasta.gz)**
+    * [Los Alamos HIV Sequence Alignment](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
+        * Alignment Type: Filtered Web
+        * Organism: HIV-1/SIVcpz
+        * Region: VPU
+        * Subtype: All
+        * DNA/Protein: DNA
+        * Year: 2016
+        * Format: FASTA
