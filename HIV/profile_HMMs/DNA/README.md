@@ -18,3 +18,6 @@
 
 * **[HIV1_FLT_2016_tat_DNA.hmm](HIV1_FLT_2016_tat_DNA.hmm)**
     * Made from [HIV1_FLT_2016_tat_DNA.fasta.gz](../../alignments/DNA/HIV1_FLT_2016_tat_DNA.fasta.gz)
+
+* **[HIV1_FLT_2016_vif_DNA.hmm](HIV1_FLT_2016_vif_DNA.hmm)**
+    * Made from [HIV1_FLT_2016_vif_DNA.fasta.gz](../../alignments/DNA/HIV1_FLT_2016_vif_DNA.fasta.gz)
