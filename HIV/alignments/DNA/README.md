@@ -257,3 +257,13 @@
         * DNA/Protein: DNA
         * Year: 2016
         * Format: FASTA
+
+* **[HIV1_M_NORECOMB_FLT_2016_tat_DNA.fasta.gz](HIV1_M_NORECOMB_FLT_2016_tat_DNA.fasta.gz)**
+    * [Los Alamos HIV Sequence Alignment](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
+        * Alignment Type: Filtered Web
+        * Organism: HIV-1/SIVcpz
+        * Region: TAT
+        * Subtype: NO Recombinants (A-K)
+        * DNA/Protein: DNA
+        * Year: 2016
+        * Format: FASTA
