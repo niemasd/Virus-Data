@@ -1,3 +1,5 @@
+* **[HIV1_B_Little_pol_DNA.fasta.gz](HIV1_B_Little_pol_DNA.fasta.gz)**
+    * HIV-1 Subtype B sequences from [Little et al. 2014](HIV1_B_Little_pol_DNA.fasta.gz)
 * **[HIV1_FLT_2016_env_DNA.fasta.gz](HIV1_FLT_2016_env_DNA.fasta.gz)**
     * [Los Alamos HIV Sequence Alignment](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
         * Alignment Type: Filtered Web

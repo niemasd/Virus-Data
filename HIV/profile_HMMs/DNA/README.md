@@ -1,3 +1,5 @@
+* **[HIV1_B_Little_pol_DNA.hmm](HIV1_B_Little_pol_DNA.hmm)**
+    * Made from [HIV1_B_Little_pol_DNA.fasta.gz](../../alignments/DNA/HIV1_B_Little_pol_DNA.fasta.gz)
 * **[HIV1_FLT_2016_env_DNA.hmm](HIV1_FLT_2016_env_DNA.hmm)**
     * Made from [HIV1_FLT_2016_env_DNA.fasta.gz](../../alignments/DNA/HIV1_FLT_2016_env_DNA.fasta.gz)
 
